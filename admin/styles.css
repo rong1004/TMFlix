@@ -1,0 +1,36 @@
+.head a{
+  text-decoration:none;  
+}
+
+.head {
+  background-color: #66ffcc;
+  color: black;
+  text-align: center;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 5px;
+}
+.BODY a{
+  text-decoration:none;  
+}
+
+
+.BODY{
+  background-color: #66ff66;
+  color: BLACK;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 12px;
+
+}
+
+.BODY input[type=text], input[type=number],input[type=date],select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
